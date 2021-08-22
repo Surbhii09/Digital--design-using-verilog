@@ -1,1 +1,1 @@
-# Sequence-detector-using-fsm
+#guessing game using verilog
